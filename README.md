@@ -1,4 +1,4 @@
-# Simple webpage
+# Pseudoclasses task
 [Pseudoclasses](https://level0rd.github.io/web2_pseudo-classes/)
 
 <p align="center">
